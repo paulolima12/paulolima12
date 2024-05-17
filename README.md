@@ -1,14 +1,14 @@
-### Hi there 👋
+
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://pbs.twimg.com/profile_banners/1268276517399859200/1704221651/1500x500" />
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">🙈Hello, my name is Iago🙈 <br><br> 💻I'm a programming student at Etec MCM and I use this github to report on my learning.💻</p>&nbsp;
+<p align="center">🙈Hello, my name is Paulo🙈 <br><br> 💻I'm a programming student at Etec MCM and I use this github to report on my learning.💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagomenezes19&theme=radical&mode=weekly" />
-<img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
+<img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paulolima12&theme=radical&mode=weekly" />
+<img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=paulolima12&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -40,7 +40,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/menez.iago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/eo.paulinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>&nbsp;&nbsp;
  
 
